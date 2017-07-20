@@ -1,0 +1,23 @@
+{
+  "name": "sol-function-profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricR/sol-function-profiler.git"
+  },
+  "author": "Eric Rafaloff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EricR/sol-function-profiler/issues"
+  },
+  "homepage": "https://github.com/EricR/sol-function-profiler#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "solidity-parser": "^0.3.0"
+  }
+}
