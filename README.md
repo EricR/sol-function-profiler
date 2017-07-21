@@ -5,7 +5,7 @@ A command line tool that generates a human-consumable report listing a contract'
 Usage Example:
 
 ```
-$ node install
+$ npm install
 ...
 $ node index.js ~/contracts/mytoken.sol
 .--------------------------------------------------------------------------------------------------------.
